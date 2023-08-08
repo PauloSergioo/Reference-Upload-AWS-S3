@@ -1,1 +1,1 @@
-# dscatalog-resources
+# Reference Project: Upload na AWS - S3
